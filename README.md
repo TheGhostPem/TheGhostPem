@@ -32,6 +32,17 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología, el hard
 
 ---
 
+## 🤝 Connect with me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/juanjoherrera011-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/juanjoherrera011)
+[![Gmail](https://img.shields.io/badge/juanjoherrera022@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juanjoherrera022@gmail.com)
+
+</div>
+
+---
+
 ## 📊 Racha de contribuciones
 
 <div align="center">
