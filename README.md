@@ -36,8 +36,8 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología, el hard
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/juanjoherrera011-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/juanjoherrera011)
-[![Gmail](https://img.shields.io/badge/juanjoherrera022@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juanjoherrera022@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/juanjoherrera011)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juanjoherrera022@gmail.com)
 
 </div>
 
