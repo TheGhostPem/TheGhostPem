@@ -30,12 +30,9 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología, el hard
 
 ---
 
-## 📊 Estadísticas
+## 📊 Racha de contribuciones
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGhostPem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFAEC9&icon_color=FFAEC9&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGhostPem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFAEC9&text_color=ffffff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TheGhostPem&theme=tokyonight&hide_border=true&background=0d1117&ring=FFAEC9&fire=FFAEC9&currStreakLabel=FFAEC9)
 
