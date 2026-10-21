@@ -9,6 +9,7 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología, el hard
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -31,6 +32,16 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología, el hard
 
 ---
 
+## 🚀 Proyecto Destacado
+
+### 🛒 [Black Market — E-Commerce Full-Stack](https://github.com/TheGhostPem/black-market)
+
+Plataforma web de comercio electrónico para compra y venta de tecnología y electrodomésticos. Integra autenticación de usuarios (tradicional y Google OAuth 2.0), catálogo interactivo, simulación de pagos y confirmación de pedidos automatizada por correo electrónico con Nodemailer.
+
+> **Tecnologías:** `JavaScript` • `Node.js` • `Express.js` • `MySQL` • `HTML5` • `CSS3` • `Google OAuth` • `Nodemailer`
+
+---
+
 ## 🤝 Connect with me
 
 <div align="center">
@@ -42,10 +53,11 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología, el hard
 
 ---
 
-## 📊 Racha de contribuciones
+## 📊 Estadísticas & Racha
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TheGhostPem&theme=tokyonight&hide_border=true&background=0d1117&ring=FFAEC9&fire=FFAEC9&currStreakLabel=FFAEC9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGhostPem&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF4B4B&icon_color=FF4B4B&text_color=E0E0E0)
+![GitHub Streak](https://streak-stats.demolab.com?user=TheGhostPem&hide_border=true&background=0d1117&ring=FF4B4B&fire=FF4B4B&currStreakLabel=FF4B4B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=E0E0E0&dates=8B949E)
 
 </div>
