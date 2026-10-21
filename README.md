@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="banner.png"/>
+    <img src="liebe_theghost"/>
 </p>
 
 Soy estudiante de Ingeniería de Sistemas apasionado por la tecnología, el hardware y el desarrollo de software, actualmente en tercer semestre y con el objetivo de convertirme en **Full-Stack Developer**. Me gusta aprender constantemente y construir cosas que funcionen de verdad. 🚀
